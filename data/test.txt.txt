@@ -1,2 +1,0 @@
-data/obj/01.JPG
-data/obj/02.JPG
